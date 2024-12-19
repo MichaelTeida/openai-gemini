@@ -175,3 +175,5 @@ Implemented via [`inlineData`](https://ai.google.dev/api/caching#Part).
 - [ ] `completions`
 - [x] `embeddings`
 - [x] `models`
+
+test
